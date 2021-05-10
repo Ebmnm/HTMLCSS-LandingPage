@@ -4,7 +4,8 @@ body { font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 1.4; 
 input, button { font-family: inherit; font-size: inherit; }
 a { color: #faa541; text-decoration: none; }
 ul { padding: 0; margin: 0; list-style: none; }
-nav { padding: 10px 0; }
+nav { padding: 10px 0;
+background-color: #a0a0a0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 
@@ -90,7 +91,7 @@ color:#364147;
     border:1px solid #a0a0a0;
 }
 .search-button{
-    background-color: #a0a0a0;
+    background-color:#faa541;
     color: #ffffff;
     height: 30px;
     width: 100px;
@@ -381,3 +382,4 @@ background-image: url(/img/pinterest.svg);
      font-size: 12px;
      text-align: center;
  }
+
