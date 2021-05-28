@@ -2,7 +2,7 @@
 gsap.registerPlugin(ScrollTrigger)
 
 gsap.from(`.hero`, {
-    opacity:0.1, duration:1, y:-50
+    opacity:0.1, duration:1
 })
 
 gsap.from(`.boot-sec`, {
